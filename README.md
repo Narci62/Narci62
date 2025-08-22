@@ -5,8 +5,8 @@ I love building real-world applications with modern stacks and sharing knowledge
 
 - 🔭 I’m currently working on web apps with **Laravel**, **Vue.js**  
 - 🌱 I’m learning **DevOps** practices (CI/CD, GitHub Actions, Docker, Kubernetes, cloud deployment)  
-- 🔐 Interested in **Cloud**
-- 📫 How to reach me: [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/narcisse-kodonou-744026259/))  
+- 🔐 Interested in **Cloud computing**
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/narcisse-kodonou-744026259/)  
 
 ---
 
@@ -42,7 +42,6 @@ Here is an overview of some of my main skills and technologies I use:
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/html.png" alt="HTML" title="HTML"/></code></td>
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/css.png" alt="CSS" title="CSS"/></code></td>
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/bash.png" alt="Bash" title="Bash"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/></code></td>
 		</tr>
 	</table>
 </div>
