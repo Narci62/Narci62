@@ -20,8 +20,9 @@ Here is an overview of some of my main skills and technologies I use:
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/php.png" alt="PHP" title="PHP"/></code></td>
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/laravel.png" alt="Laravel" title="Laravel"/></code></td>
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/vue.png" alt="Vue.js" title="Vue.js"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/vue_js.png" alt="Vue.js" title="Vue.js"/></code></td>
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/python.png" alt="Python" title="Python"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/flask.png" alt="Flask" title="Flask"/></code></td>
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code></td>
 		</tr>
 		<tr>
@@ -29,9 +30,12 @@ Here is an overview of some of my main skills and technologies I use:
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code></td>
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code></td>
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/docker.png" alt="Docker" title="Docker"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/npm.png" alt="Npm" title="Npm"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/rest.png" alt="API REST" title="API REST"/></code></td>
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/github.png" alt="GitHub" title="GitHub"/></code></td>
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/git.png" alt="Git" title="Git"/></code></td>
-			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/vscode.png" alt="VS Code" title="VS Code"/></code></td>
+			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/visual_studio_code.png" alt="VS Code" title="VS Code"/></code></td>
 		</tr>
 		<tr>
 			<td><code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/icons/wordpress.png" alt="WordPress" title="WordPress"/></code></td>
